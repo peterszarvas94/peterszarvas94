@@ -6,7 +6,7 @@ a junior frontend developer at Kyndryl
 
 ### Technologies I'm using:
 - JavaScript, TypeScript
-- React, Next.js
+- React.js, Next.js, Astro.js
 - HTML, CSS
 - Node.js
 - REST, GraphQL
