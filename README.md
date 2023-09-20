@@ -7,7 +7,7 @@
 - HTML, CSS
 - Node.js
 - REST, TRPC
-- Tailwind
+- Tailwind CSS
 
 ### Currently learning:
-- Rust
+- Go, Java, Rust
