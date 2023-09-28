@@ -10,4 +10,4 @@
 - Tailwind CSS
 
 ### Currently learning:
-- Go, Java, Rust
+- Go, Rust
