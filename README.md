@@ -3,7 +3,7 @@
 
 ### Technologies I'm using:
 - JavaScript, TypeScript
-- React, Next.js, Astro.js
+- React, Next.js, Astro.js, HTMX
 - HTML, CSS
 - Node.js
 - REST, TRPC
