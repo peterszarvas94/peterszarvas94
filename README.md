@@ -17,5 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterszarvas94&layout=compact&theme=tokyonight&langs_count=100&hide=sass)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; height: 100dvh; width: 100vdw; opacity: 0.5; background: url('https://github.com/peterszarvas94/peterszarvas94/blob/main/test3.jpg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; height: 100dvh; width: 100dvw; opacity: 0.5; background: url('https://github.com/peterszarvas94/peterszarvas94/blob/main/test3.jpg?raw=true');]{x0000}$}
 ```
