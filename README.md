@@ -12,6 +12,6 @@
 
 ### Currently learning:
 
-- Go, Rust
+- Go, Rust, Elixir
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterszarvas94&layout=compact&theme=tokyonight&langs_count=100&hide=sass)
