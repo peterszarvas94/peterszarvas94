@@ -4,18 +4,12 @@
 ### Technologies I'm using
 
 - JavaScript, TypeScript
-- React, Next.js, Astro.js, HTMX
+- React, Next.js, Astro, SolidJS, HTMX
 - HTML, CSS
 - Node.js
-- REST, TRPC
+- REST, tRPC
 - Tailwind CSS
 
-### Learned a bit
+### Know some
 
-Go, Bash
-
-### Learning
-
-Ruby on Rails
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterszarvas94&layout=compact&theme=tokyonight&langs_count=100&hide=sass)
+Go, Bash, Ruby on Rails
